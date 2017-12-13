@@ -10,4 +10,4 @@ python hello.py
 
 Then access through your browser!
 
-URL: http://localhost:7777/?user=\<username\>
+URL: http://localhost:7777/?user=<username\>
